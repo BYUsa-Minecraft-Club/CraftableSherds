@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sherds",
+  "pattern": [
+    "CPC",
+    "GBG",
+    "CGC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:raw_copper_block"
+    },
+    "P": [
+      {
+        "item": "minecraft:skeleton_skull"
+      },
+      {
+        "item": "minecraft:wither_skeleton_skull"
+      },
+      {
+        "item": "minecraft:skull_banner_pattern"
+      }
+    ],
+    "G": [
+      {
+        "item": "minecraft:raw_gold_block"
+      },
+      {
+        "item": "minecraft:gilded_blackstone"
+      }
+    ],
+    "B": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "minecraft:skull_pottery_sherd"
+  }
+}

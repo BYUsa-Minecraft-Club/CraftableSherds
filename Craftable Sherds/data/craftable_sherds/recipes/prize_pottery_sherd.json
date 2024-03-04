@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sherds",
+  "pattern": [
+    "CPC",
+    "GBG",
+    "CGC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:raw_copper_block"
+    },
+    "P": {
+      "item": "minecraft:diamond"
+    },
+    "G": [
+      {
+        "item": "minecraft:raw_gold_block"
+      },
+      {
+        "item": "minecraft:gilded_blackstone"
+      }
+    ],
+    "B": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "minecraft:prize_pottery_sherd"
+  }
+}

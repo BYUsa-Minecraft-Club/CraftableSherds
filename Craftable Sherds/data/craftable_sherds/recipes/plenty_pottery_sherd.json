@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sherds",
+  "pattern": [
+    "CPC",
+    "GBG",
+    "CGC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:raw_copper_block"
+    },
+    "P": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:ender_chest"
+      },
+      {
+        "item": "minecraft:trapped_chest"
+      },
+      {
+        "item": "minecraft:chest_minecart"
+      },
+      {
+        "tag": "minecraft:chest_boats"
+      }
+    ],
+    "G": [
+      {
+        "item": "minecraft:raw_gold_block"
+      },
+      {
+        "item": "minecraft:gilded_blackstone"
+      }
+    ],
+    "B": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "minecraft:plenty_pottery_sherd"
+  }
+}

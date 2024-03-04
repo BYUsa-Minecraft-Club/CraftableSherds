@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sherds",
+  "pattern": [
+    "CPC",
+    "GBG",
+    "CGC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:raw_copper_block"
+    },
+    "P": [
+      {
+        "item": "minecraft:iron_horse_armor"
+      },
+      {
+        "item": "minecraft:golden_horse_armor"
+      },
+      {
+        "item": "minecraft:diamond_horse_armor"
+      }
+    ],
+    "G": [
+      {
+        "item": "minecraft:raw_gold_block"
+      },
+      {
+        "item": "minecraft:gilded_blackstone"
+      }
+    ],
+    "B": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "minecraft:howl_pottery_sherd"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sherds",
+  "pattern": [
+    "CPC",
+    "GBG",
+    "CGC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:raw_copper_block"
+    },
+    "P": [
+      {
+        "item": "minecraft:honey_bottle"
+      },
+      {
+        "item": "minecraft:potion"
+      },
+      {
+        "item": "minecraft:splash_potion"
+      },
+      {
+        "item": "minecraft:lingering_potion"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "item": "minecraft:dragon_breath"
+      },
+      {
+        "item": "minecraft:experience_bottle"
+      }
+    ],
+    "G": [
+      {
+        "item": "minecraft:raw_gold_block"
+      },
+      {
+        "item": "minecraft:gilded_blackstone"
+      }
+    ],
+    "B": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "minecraft:brewer_pottery_sherd"
+  }
+}

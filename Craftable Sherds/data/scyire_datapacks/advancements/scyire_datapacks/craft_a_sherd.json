@@ -1,0 +1,161 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:mourner_pottery_sherd"
+      },
+      "title": "Paving Your Own Path",
+      "description": "Craft a Pottery Sherd",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "scyire_datapacks:scyire_datapacks/craftable_sherds",
+    "criteria": {
+      "craft angler sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:angler_pottery_sherd"
+        }
+      },
+      "craft archer sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:archer_pottery_sherd"
+        }
+      },
+      "craft arms up sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:arms_up_pottery_sherd"
+        }
+      },
+      "craft blade sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:blade_pottery_sherd"
+        }
+      },
+      "craft brewer sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:brewer_pottery_sherd"
+        }
+      },
+      "craft burn sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:burn_pottery_sherd"
+        }
+      },
+      "craft danger sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:danger_pottery_sherd"
+        }
+      },
+      "craft explorer sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:explorer_pottery_sherd"
+        }
+      },
+      "craft friend sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:friend_pottery_sherd"
+        }
+      },
+      "craft heart sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:heart_pottery_sherd"
+        }
+      },
+      "craft heartbreak sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:heartbreak_pottery_sherd"
+        }
+      },
+      "craft howl sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:howl_pottery_sherd"
+        }
+      },
+      "craft miner sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:miner_pottery_sherd"
+        }
+      },
+      "craft mourner sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:mourner_pottery_sherd"
+        }
+      },
+      "craft plenty sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:plenty_pottery_sherd"
+        }
+      },
+      "craft prize sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:prize_pottery_sherd"
+        }
+      },
+      "craft sheaf sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:sheaf_pottery_sherd"
+        }
+      },
+      "craft shelter sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:shelter_pottery_sherd"
+        }
+      },
+      "craft skull sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:skull_pottery_sherd"
+        }
+      },
+      "craft snort sherd": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "craftable_sherds:snort_pottery_sherd"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "craft angler sherd",
+        "craft archer sherd",
+        "craft arms up sherd",
+        "craft blade sherd",
+        "craft brewer sherd",
+        "craft burn sherd",
+        "craft danger sherd",
+        "craft explorer sherd",
+        "craft friend sherd",
+        "craft heart sherd",
+        "craft heartbreak sherd",
+        "craft howl sherd",
+        "craft miner sherd",
+        "craft mourner sherd",
+        "craft plenty sherd",
+        "craft prize sherd",
+        "craft sheaf sherd",
+        "craft shelter sherd",
+        "craft skull sherd",
+        "craft snort sherd"
+      ]
+    ]
+  }
+  

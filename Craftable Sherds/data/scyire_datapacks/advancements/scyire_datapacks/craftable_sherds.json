@@ -1,0 +1,21 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:decorated_pot",
+        "nbt": "{BlockEntityTag:{id:\"minecraft:decorated_pot\",sherds:[\"minecraft:mourner_pottery_sherd\",\"minecraft:skull_pottery_sherd\",\"minecraft:heartbreak_pottery_sherd\",\"minecraft:brewer_pottery_sherd\"]}}"
+      },
+      "title": "Craftable Sherds",
+      "description": "Allows for the Crafting of Pottery Sherds",
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "parent": "scyire_datapacks:scyire_datapacks/root",
+    "criteria": {
+      "exist": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  
