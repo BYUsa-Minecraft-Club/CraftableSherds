@@ -43,7 +43,7 @@ heart: "minecraft:heart_of_the_sea" -OR- "minecraft:glistering_melon_slice"
 
 heartbreak: "minecraft:disc_fragment_5" -OR- "minecraft:fermented_spider_eye"
 
-howl: "minecraft:wolf_armor"
+howl: "minecraft:horse_armor"
 
 miner: "minecraft:pickaxes"
 
