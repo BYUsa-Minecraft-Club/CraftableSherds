@@ -1,33 +1,25 @@
 {
-    "display":
-    {
-        "icon":
-        {
-            "item": "minecraft:echo_shard"
-        },
-        "title":
-        {
-            "text": "Scyire's Datapacks"
-        },
-        "description":
-        {
-            "text": "Souls...:)",
-            "color": "dark_purple",
-            "italics": true,
-            "obfuscated": true
-        },
-        "frame": "challenge",
-        "show_toast": false,
-        "announce_to_chat": false,
-        "hidden": false,
-        "background": "minecraft:textures/block/sculk.png"
+    "display": {
+      "icon": {
+        "id": "minecraft:echo_shard"
+      },
+      "title": "Scyire's Datapacks",
+      "description": {
+        "text": "Souls...:)",
+        "color": "dark_purple",
+        "italic": true,
+        "obfuscated": true
+      },
+      "background": "minecraft:textures/block/sculk.png",
+      "frame": "challenge",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
     },
-    "criteria":
-    {
-        "exist":
-        {
-            "trigger": "minecraft:tick",
-            "conditions": {}
-        }
+    "criteria": {
+      "exist": {
+        "trigger": "minecraft:tick"
+      }
     }
-}
+  }
+  

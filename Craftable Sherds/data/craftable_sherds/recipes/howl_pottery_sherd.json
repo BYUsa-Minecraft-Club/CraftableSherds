@@ -11,17 +11,9 @@
     "C": {
       "item": "minecraft:raw_copper_block"
     },
-    "P": [
-      {
-        "item": "minecraft:iron_horse_armor"
-      },
-      {
-        "item": "minecraft:golden_horse_armor"
-      },
-      {
-        "item": "minecraft:diamond_horse_armor"
-      }
-    ],
+    "P": {
+      "item": "minecraft:wolf_armor"
+    },
     "G": [
       {
         "item": "minecraft:raw_gold_block"
@@ -35,6 +27,6 @@
     }
   },
   "result": {
-    "item": "minecraft:howl_pottery_sherd"
+    "id": "minecraft:howl_pottery_sherd"
   }
 }

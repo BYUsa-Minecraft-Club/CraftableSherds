@@ -1,7 +1,7 @@
 {
     "display": {
       "icon": {
-        "item": "minecraft:mourner_pottery_sherd"
+        "id": "minecraft:mourner_pottery_sherd"
       },
       "title": "Paving Your Own Path",
       "description": "Craft a Pottery Sherd",

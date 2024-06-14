@@ -1,7 +1,7 @@
 {
     "display": {
       "icon": {
-        "item": "minecraft:bundle"
+        "id": "minecraft:bundle"
       },
       "title": "Collector's Addiction",
       "description": "Craft all of the Pottery Sherds",

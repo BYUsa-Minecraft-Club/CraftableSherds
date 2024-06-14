@@ -47,6 +47,6 @@
     }
   },
   "result": {
-    "item": "minecraft:brewer_pottery_sherd"
+    "id": "minecraft:brewer_pottery_sherd"
   }
 }
