@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sherds",
+  "pattern": [
+    "CPC",
+    "GBG",
+    "CGC"
+  ],
+  "key": {
+    "C": "minecraft:raw_copper_block",
+    "P": [
+      "minecraft:sniffer_egg",
+      "minecraft:piglin_banner_pattern",
+      "minecraft:snout_armor_trim_smithing_template"
+    ],
+    "G": "#craftable_sherds:sherd_gold",
+    "B": "minecraft:brick"
+  },
+  "result": {
+    "id": "minecraft:snort_pottery_sherd"
+  }
+}

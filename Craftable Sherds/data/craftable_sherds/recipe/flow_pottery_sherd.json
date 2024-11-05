@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sherds",
+  "pattern": [
+    "CPC",
+    "GBG",
+    "CGC"
+  ],
+  "key": {
+    "C": "minecraft:raw_copper_block",
+    "P": [
+      "minecraft:wind_charge",
+      "minecraft:flow_banner_pattern",
+      "minecraft:flow_armor_trim_smithing_template",
+      "minecraft:chiseled_quartz_block"
+    ],
+    "G": "#craftable_sherds:sherd_gold",
+    "B": "minecraft:brick"
+  },
+  "result": {
+    "id": "minecraft:flow_pottery_sherd"
+  }
+}

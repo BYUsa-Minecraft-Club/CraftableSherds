@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "sherds",
+  "pattern": [
+    "CPC",
+    "GBG",
+    "CGC"
+  ],
+  "key": {
+    "C": "minecraft:raw_copper_block",
+    "P": [
+      "minecraft:disc_fragment_5",
+      "minecraft:fermented_spider_eye"
+    ],
+    "G": "#craftable_sherds:sherd_gold",
+    "B": "minecraft:brick"
+  },
+  "result": {
+    "id": "minecraft:heartbreak_pottery_sherd"
+  }
+}

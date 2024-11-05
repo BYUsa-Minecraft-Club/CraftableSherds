@@ -1,0 +1,9 @@
+{
+    "values": [
+        "minecraft:chest",
+        "minecraft:ender_chest",
+        "minecraft:trapped_chest",
+        "minecraft:chest_minecart",
+        "#minecraft:chest_boats"
+    ]
+}
