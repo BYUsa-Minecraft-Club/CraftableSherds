@@ -43,7 +43,7 @@ friend: "minecraft:player_head" -OR- "minecraft:piglin_head"
 
 guster: "minecraft:breeze_rod" -OR- "minecraft:guster_banner_pattern"
 
-heart: "minecraft:heart_of_the_sea" -OR- "minecraft:glistering_melon_slice" -OR- "#minecraft:chest_armor"
+heart: "minecraft:heart_of_the_sea" -OR- "minecraft:creaking_heart"
 
 heartbreak: "minecraft:disc_fragment_5" -OR- "minecraft:fermented_spider_eye"
 
