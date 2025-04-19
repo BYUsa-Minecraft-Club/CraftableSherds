@@ -9,7 +9,10 @@
   ],
   "key": {
     "C": "minecraft:raw_copper_block",
-    "P": "#craftable_sherds:heart_sherd",
+    "P": [
+      "minecraft:heart_of_the_sea",
+      "minecraft:creaking_heart"
+    ],
     "G": "#craftable_sherds:sherd_gold",
     "B": "minecraft:brick"
   },
