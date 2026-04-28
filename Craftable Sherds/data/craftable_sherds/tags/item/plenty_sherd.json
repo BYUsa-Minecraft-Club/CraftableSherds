@@ -4,6 +4,7 @@
         "minecraft:ender_chest",
         "minecraft:trapped_chest",
         "minecraft:chest_minecart",
-        "#minecraft:chest_boats"
+        "#minecraft:chest_boats",
+        "#minecraft:copper_chests"
     ]
 }

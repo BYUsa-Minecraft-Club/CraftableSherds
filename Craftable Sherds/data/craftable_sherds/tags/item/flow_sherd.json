@@ -1,0 +1,12 @@
+{
+    "values": [
+        "minecraft:wind_charge",
+        "minecraft:flow_banner_pattern",
+        "minecraft:flow_armor_trim_smithing_template",
+        "minecraft:copper_nautilus_armor",
+        "minecraft:iron_nautilus_armor",
+        "minecraft:golden_nautilus_armor",
+        "minecraft:diamond_nautilus_armor",
+        "minecraft:netherite_nautilus_armor"
+    ]
+}

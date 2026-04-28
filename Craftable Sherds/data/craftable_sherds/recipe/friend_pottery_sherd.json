@@ -9,10 +9,7 @@
   ],
   "key": {
     "C": "minecraft:raw_copper_block",
-    "P": [
-      "minecraft:player_head",
-      "minecraft:piglin_head"
-    ],
+    "P": "#craftable_sherds:friend_sherd",
     "G": "#craftable_sherds:sherd_gold",
     "B": "minecraft:brick"
   },

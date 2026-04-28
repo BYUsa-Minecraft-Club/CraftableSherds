@@ -1,8 +1,9 @@
 {
     "pack": {
         "description": "Adds crafting recipes for pottery sherds",
-        "min_format": 88,
-        "max_format": 88
+        "pack_format": 101,
+        "min_format": [101, 1],
+        "max_format": [101, 1]
     }
 }
 
